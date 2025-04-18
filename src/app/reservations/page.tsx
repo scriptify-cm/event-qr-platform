@@ -169,7 +169,7 @@ export default function ReservationsPage() {
                 </CardHeader>
                 <CardContent>
                   <img
-                    src="https://source.unsplash.com/random/300x200/?festival,concert"
+                    src="/images/concert-2.jpg"
                     alt="Event"
                     className="rounded-md object-cover w-full h-40"
                   />

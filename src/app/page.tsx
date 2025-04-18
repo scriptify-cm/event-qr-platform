@@ -132,7 +132,7 @@ export default function Home() {
               <img
                 alt="Event Hero"
                 className="aspect-video object-cover w-full rounded-xl"
-                src="https://source.unsplash.com/random/800x450/?festival,concert"
+                src="/images/concert-2.jpg"
               />
             </motion.div>
           </div>
